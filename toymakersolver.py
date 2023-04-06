@@ -6,7 +6,7 @@ import pprint
 import time
 
 # Step 1: YDK Extractor
-with open('deck2.ydk') as f:
+with open('KDR 2 Inventory.ydk') as f:
     deck = f.read().splitlines()
 
 deck.pop(0)
@@ -44,8 +44,11 @@ for card in extradeck:
     #print(info)
     info = info["data"][0]
     print(info["name"]) 
-
-    if "Monster" in info["type"]:
+    if info["type"]=="Link Monster":
+        extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": -1, "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
+    if info["type"]=="XYZ Monster":
+        extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
+    elif "Monster" in info["type"]:
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": info["level"]}
     time.sleep(0.3)
 
@@ -63,8 +66,11 @@ def getScore(card,comparison, thirdcard):
                 if key!=key2 and comparison[key2] == thirdcard[key2] and not (card[key2] == comparison[key2]):
                     print(card[key])
                     score = score + 1
+        if card[key] == thirdcard[key] and card[key] == comparison[key]:
+            score = score + 100
     return score
 
+deckmonsters.update(extradeckmonsters)
 
 for card in deckmonsters:
     monsterbridges[card] = {}
