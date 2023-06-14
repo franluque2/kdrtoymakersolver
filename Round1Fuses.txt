@@ -1,0 +1,530 @@
+Fuse Shaddoll Hedgehog + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Manga Ryu-Ran ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Wind-Up Snail ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Mirage Knight ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Mirage Knight ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Extox Hydra ---> into Bickuribox
+Fuse Shaddoll Hedgehog + Extox Hydra ---> into Dangerous Frightfur Nightmary
+Fuse Shaddoll Hedgehog + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Shaddoll Hedgehog + Ambulance Rescueroid ---> into Bickuribox
+Fuse Manga Ryu-Ran + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Manga Ryu-Ran + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Wind-Up Snail ---> into Bickuribox
+Fuse Manga Ryu-Ran + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Genex Ally Changer ---> into Bickuribox
+Fuse Manga Ryu-Ran + Mirage Knight ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Mirage Knight ---> into Bickuribox
+Fuse Manga Ryu-Ran + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Manga Ryu-Ran + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Manga Ryu-Ran + Toy Knight ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Shaddoll Hound ---> into Bickuribox
+Fuse Manga Ryu-Ran + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Manga Ryu-Ran + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Manga Ryu-Ran + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Dark Flare Knight ---> into Bickuribox
+Fuse Manga Ryu-Ran + Extox Hydra ---> into Bickuribox
+Fuse Manga Ryu-Ran + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Ambulance Rescueroid ---> into Bickuribox
+Fuse Manga Ryu-Ran + Bickuribox ---> into Dark Flare Knight
+Fuse Manga Ryu-Ran + Bickuribox ---> into Ambulance Rescueroid
+Fuse Manga Ryu-Ran + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Fluffal Owl + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Fluffal Owl + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Fluffal Owl + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Fluffal Owl + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Fluffal Owl + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Fluffal Owl + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Naelshaddoll Ariel + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Toy Knight ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Naelshaddoll Ariel + Bickuribox ---> into Ambulance Rescueroid
+Fuse Fluffal Octopus + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Fluffal Leo ---> into Extox Hydra
+Fuse Fluffal Octopus + Mirage Knight ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Mirage Knight ---> into Extox Hydra
+Fuse Fluffal Octopus + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Wind-Up Soldier ---> into Extox Hydra
+Fuse Fluffal Octopus + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Toy Magician ---> into Extox Hydra
+Fuse Fluffal Octopus + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Fluffal Octopus + Toy Knight ---> into Extox Hydra
+Fuse Fluffal Octopus + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Shaddoll Hound ---> into Extox Hydra
+Fuse Fluffal Octopus + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Fluffal Octopus + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Fluffal Octopus + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Bickuribox ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Bickuribox ---> into Extox Hydra
+Fuse Fluffal Octopus + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Fluffal Octopus + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Wind-Up Snail + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Wind-Up Snail + Manga Ryu-Ran ---> into Bickuribox
+Fuse Wind-Up Snail + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Genex Ally Changer ---> into Bickuribox
+Fuse Wind-Up Snail + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Wind-Up Snail + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Shaddoll Hound ---> into Bickuribox
+Fuse Wind-Up Snail + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Wind-Up Snail + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Snail + Dark Flare Knight ---> into Bickuribox
+Fuse Wind-Up Snail + Ambulance Rescueroid ---> into Bickuribox
+Fuse Genex Ally Changer + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Manga Ryu-Ran ---> into Bickuribox
+Fuse Genex Ally Changer + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Wind-Up Snail ---> into Bickuribox
+Fuse Genex Ally Changer + Mirage Knight ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Mirage Knight ---> into Bickuribox
+Fuse Genex Ally Changer + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Genex Ally Changer + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Genex Ally Changer + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Genex Ally Changer + Extox Hydra ---> into Bickuribox
+Fuse Genex Ally Changer + Extox Hydra ---> into Dangerous Frightfur Nightmary
+Fuse Genex Ally Changer + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Genex Ally Changer + Ambulance Rescueroid ---> into Bickuribox
+Fuse Fluffal Leo + Fluffal Octopus ---> into Extox Hydra
+Fuse Fluffal Leo + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + Mirage Knight ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Mirage Knight ---> into Extox Hydra
+Fuse Fluffal Leo + Elemental HERO Woodsman ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Toon Goblin Attack Force ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + King of the Swamp ---> into Extox Hydra
+Fuse Fluffal Leo + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Fluffal Leo + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + Elemental HERO Terra Firma ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Fluffal Leo + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Fluffal Leo + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Fluffal Leo + Bickuribox ---> into Extox Hydra
+Fuse Fluffal Leo + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Mirage Knight + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Mirage Knight + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Mirage Knight + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Mirage Knight + Manga Ryu-Ran ---> into Bickuribox
+Fuse Mirage Knight + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Mirage Knight + Fluffal Octopus ---> into Extox Hydra
+Fuse Mirage Knight + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Mirage Knight + Genex Ally Changer ---> into Bickuribox
+Fuse Mirage Knight + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Mirage Knight + Fluffal Leo ---> into Extox Hydra
+Fuse Mirage Knight + Wind-Up Soldier ---> into Extox Hydra
+Fuse Mirage Knight + Toy Magician ---> into Extox Hydra
+Fuse Mirage Knight + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Mirage Knight + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Mirage Knight + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Mirage Knight + Toy Knight ---> into Extox Hydra
+Fuse Mirage Knight + King of the Swamp ---> into Extox Hydra
+Fuse Mirage Knight + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Mirage Knight + Shaddoll Hound ---> into Extox Hydra
+Fuse Mirage Knight + Shaddoll Hound ---> into Bickuribox
+Fuse Mirage Knight + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Mirage Knight + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Mirage Knight + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Mirage Knight + Dark Flare Knight ---> into Bickuribox
+Fuse Mirage Knight + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Mirage Knight + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Mirage Knight + Ambulance Rescueroid ---> into Bickuribox
+Fuse Mirage Knight + Bickuribox ---> into Dark Flare Knight
+Fuse Mirage Knight + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Mirage Knight + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Wind-Up Soldier + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Fluffal Octopus ---> into Extox Hydra
+Fuse Wind-Up Soldier + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Mirage Knight ---> into Extox Hydra
+Fuse Wind-Up Soldier + King of the Swamp ---> into Extox Hydra
+Fuse Wind-Up Soldier + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Wind-Up Soldier + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Wind-Up Soldier + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Bickuribox ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Bickuribox ---> into Extox Hydra
+Fuse Wind-Up Soldier + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Wind-Up Soldier + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Elemental HERO Woodsman + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Manga Ryu-Ran ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Genex Ally Changer ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Woodsman + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Woodsman + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Shaddoll Hound ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Woodsman + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Dark Flare Knight ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Woodsman + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Ambulance Rescueroid ---> into Bickuribox
+Fuse Elemental HERO Woodsman + Bickuribox ---> into Dark Flare Knight
+Fuse Elemental HERO Woodsman + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Toy Magician + Fluffal Octopus ---> into Extox Hydra
+Fuse Toy Magician + Mirage Knight ---> into Extox Hydra
+Fuse Toy Magician + King of the Swamp ---> into Extox Hydra
+Fuse Toy Magician + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Toy Magician + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Toy Magician + Bickuribox ---> into Extox Hydra
+Fuse Toy Magician + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Manga Ryu-Ran ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Fluffal Octopus ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Wind-Up Snail ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Genex Ally Changer ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Toon Goblin Attack Force + Mirage Knight ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Mirage Knight ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Toon Goblin Attack Force + Toy Knight ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + King of the Swamp ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Shaddoll Hound ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Toon Goblin Attack Force + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Toon Goblin Attack Force + Dark Flare Knight ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Extox Hydra ---> into Bickuribox
+Fuse Toon Goblin Attack Force + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Toon Goblin Attack Force + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Bickuribox ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Bickuribox ---> into Extox Hydra
+Fuse Toon Goblin Attack Force + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Toon Goblin Attack Force + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Toy Knight + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Toy Knight + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Toy Knight + Fluffal Octopus ---> into Extox Hydra
+Fuse Toy Knight + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Mirage Knight ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Mirage Knight ---> into Extox Hydra
+Fuse Toy Knight + Elemental HERO Woodsman ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Toon Goblin Attack Force ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Toy Knight + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Toy Knight + King of the Swamp ---> into Extox Hydra
+Fuse Toy Knight + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Toy Knight + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Toy Knight + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Toy Knight + Elemental HERO Terra Firma ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Toy Knight + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Toy Knight + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Toy Knight + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Toy Knight + Bickuribox ---> into Extox Hydra
+Fuse Toy Knight + Bickuribox ---> into Ambulance Rescueroid
+Fuse Toy Knight + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Elemental HERO Burstinatrix + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Burstinatrix + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Burstinatrix + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Toy Knight ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Burstinatrix + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Elemental HERO Burstinatrix + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Burstinatrix + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Burstinatrix + Bickuribox ---> into Ambulance Rescueroid
+Fuse King of the Swamp + Fluffal Leo ---> into Extox Hydra
+Fuse King of the Swamp + Mirage Knight ---> into Extox Hydra
+Fuse King of the Swamp + Wind-Up Soldier ---> into Extox Hydra
+Fuse King of the Swamp + Toy Magician ---> into Extox Hydra
+Fuse King of the Swamp + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse King of the Swamp + Toy Knight ---> into Extox Hydra
+Fuse King of the Swamp + Shaddoll Hound ---> into Extox Hydra
+Fuse King of the Swamp + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse King of the Swamp + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse King of the Swamp + Bickuribox ---> into Extox Hydra
+Fuse King of the Swamp + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Shaddoll Hound + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Manga Ryu-Ran ---> into Bickuribox
+Fuse Shaddoll Hound + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Fluffal Octopus ---> into Extox Hydra
+Fuse Shaddoll Hound + Wind-Up Snail ---> into Bickuribox
+Fuse Shaddoll Hound + Mirage Knight ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Mirage Knight ---> into Extox Hydra
+Fuse Shaddoll Hound + Mirage Knight ---> into Bickuribox
+Fuse Shaddoll Hound + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Shaddoll Hound + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Shaddoll Hound + King of the Swamp ---> into Extox Hydra
+Fuse Shaddoll Hound + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Shaddoll Hound + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Shaddoll Hound + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Shaddoll Hound + Extox Hydra ---> into Bickuribox
+Fuse Shaddoll Hound + Extox Hydra ---> into Dangerous Frightfur Nightmary
+Fuse Shaddoll Hound + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Shaddoll Hound + Ambulance Rescueroid ---> into Bickuribox
+Fuse Shaddoll Hound + Bickuribox ---> into Extox Hydra
+Fuse Shaddoll Hound + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Toon Dark Magician Girl + Manga Ryu-Ran ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Toon Dark Magician Girl + Fluffal Octopus ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Wind-Up Snail ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Fluffal Leo ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Mirage Knight ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Mirage Knight ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Mirage Knight ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Wind-Up Soldier ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Elemental HERO Woodsman ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Toy Magician ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Toon Goblin Attack Force ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Toon Dark Magician Girl + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Toy Knight ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Toy Knight ---> into Ambulance Rescueroid
+Fuse Toon Dark Magician Girl + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Toon Dark Magician Girl + King of the Swamp ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Shaddoll Hound ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Elemental HERO Terra Firma ---> into Elemental HERO Flame Wingman
+Fuse Toon Dark Magician Girl + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Extox Hydra ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Ambulance Rescueroid ---> into Bickuribox
+Fuse Toon Dark Magician Girl + Bickuribox ---> into Extox Hydra
+Fuse Toon Dark Magician Girl + Bickuribox ---> into Ambulance Rescueroid
+Fuse Wind-Up Dog + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Dog + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Dog + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Dog + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Dog + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Wind-Up Dog + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Elemental HERO Flame Wingman + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Elemental HERO Flame Wingman + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Elemental HERO Flame Wingman + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Toy Knight ---> into Ambulance Rescueroid
+Fuse Elemental HERO Flame Wingman + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Elemental HERO Flame Wingman + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Elemental HERO Flame Wingman + Bickuribox ---> into Ambulance Rescueroid
+Fuse Elemental HERO Terra Firma + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Manga Ryu-Ran ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Fluffal Octopus ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Genex Ally Changer ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Terra Firma + Fluffal Leo ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Wind-Up Soldier ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Toy Magician ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Terra Firma + Toy Knight ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + King of the Swamp ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Shaddoll Hound ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Shaddoll Hound ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Toon Dark Magician Girl ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Terra Firma + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Elemental HERO Terra Firma + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Dark Flare Knight ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Ambulance Rescueroid ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Terra Firma + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Ambulance Rescueroid ---> into Bickuribox
+Fuse Elemental HERO Terra Firma + Bickuribox ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Elemental HERO Terra Firma + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Dark Flare Knight + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Dark Flare Knight + Manga Ryu-Ran ---> into Bickuribox
+Fuse Dark Flare Knight + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Dark Flare Knight + Wind-Up Snail ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Wind-Up Snail ---> into Bickuribox
+Fuse Dark Flare Knight + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Mirage Knight ---> into Bickuribox
+Fuse Dark Flare Knight + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Dark Flare Knight + Toon Goblin Attack Force ---> into Ambulance Rescueroid
+Fuse Dark Flare Knight + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Dark Flare Knight + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Toy Knight ---> into Ambulance Rescueroid
+Fuse Dark Flare Knight + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Dark Flare Knight + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Dark Flare Knight + Extox Hydra ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Extox Hydra ---> into Bickuribox
+Fuse Dark Flare Knight + Extox Hydra ---> into Dangerous Frightfur Nightmary
+Fuse Dark Flare Knight + Ambulance Rescueroid ---> into Bickuribox
+Fuse Dark Flare Knight + Bickuribox ---> into Elemental HERO Terra Firma
+Fuse Dark Flare Knight + Bickuribox ---> into Ambulance Rescueroid
+Fuse Extox Hydra + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Extox Hydra + Shaddoll Hedgehog ---> into Dangerous Frightfur Nightmary
+Fuse Extox Hydra + Manga Ryu-Ran ---> into Bickuribox
+Fuse Extox Hydra + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Genex Ally Changer ---> into Bickuribox
+Fuse Extox Hydra + Genex Ally Changer ---> into Dangerous Frightfur Nightmary
+Fuse Extox Hydra + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Toon Goblin Attack Force ---> into Bickuribox
+Fuse Extox Hydra + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Shaddoll Hound ---> into Bickuribox
+Fuse Extox Hydra + Shaddoll Hound ---> into Dangerous Frightfur Nightmary
+Fuse Extox Hydra + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Extox Hydra + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Extox Hydra + Dark Flare Knight ---> into Bickuribox
+Fuse Extox Hydra + Dark Flare Knight ---> into Dangerous Frightfur Nightmary
+Fuse Extox Hydra + Ambulance Rescueroid ---> into Bickuribox
+Fuse Ambulance Rescueroid + Shaddoll Hedgehog ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Shaddoll Hedgehog ---> into Bickuribox
+Fuse Ambulance Rescueroid + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Manga Ryu-Ran ---> into Bickuribox
+Fuse Ambulance Rescueroid + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Wind-Up Snail ---> into Bickuribox
+Fuse Ambulance Rescueroid + Genex Ally Changer ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Genex Ally Changer ---> into Bickuribox
+Fuse Ambulance Rescueroid + Fluffal Leo ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Mirage Knight ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Mirage Knight ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Mirage Knight ---> into Bickuribox
+Fuse Ambulance Rescueroid + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Elemental HERO Woodsman ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Elemental HERO Woodsman ---> into Bickuribox
+Fuse Ambulance Rescueroid + Toon Goblin Attack Force ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Toy Knight ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Shaddoll Hound ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Shaddoll Hound ---> into Bickuribox
+Fuse Ambulance Rescueroid + Toon Dark Magician Girl ---> into Bickuribox
+Fuse Ambulance Rescueroid + Elemental HERO Terra Firma ---> into Elemental HERO Flame Wingman
+Fuse Ambulance Rescueroid + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Elemental HERO Terra Firma ---> into Bickuribox
+Fuse Ambulance Rescueroid + Dark Flare Knight ---> into Bickuribox
+Fuse Ambulance Rescueroid + Extox Hydra ---> into Bickuribox
+Fuse Ambulance Rescueroid + Bickuribox ---> into Dark Flare Knight
+Fuse Ambulance Rescueroid + Dangerous Frightfur Nightmary ---> into Dark Flare Knight
+Fuse Bickuribox + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Bickuribox + Manga Ryu-Ran ---> into Ambulance Rescueroid
+Fuse Bickuribox + Fluffal Owl ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Naelshaddoll Ariel ---> into Ambulance Rescueroid
+Fuse Bickuribox + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Bickuribox + Fluffal Octopus ---> into Extox Hydra
+Fuse Bickuribox + Fluffal Leo ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Fluffal Leo ---> into Extox Hydra
+Fuse Bickuribox + Mirage Knight ---> into Dark Flare Knight
+Fuse Bickuribox + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Bickuribox + Wind-Up Soldier ---> into Extox Hydra
+Fuse Bickuribox + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Bickuribox + Toy Magician ---> into Extox Hydra
+Fuse Bickuribox + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Bickuribox + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Bickuribox + Toy Knight ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Toy Knight ---> into Extox Hydra
+Fuse Bickuribox + Toy Knight ---> into Ambulance Rescueroid
+Fuse Bickuribox + Elemental HERO Burstinatrix ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Elemental HERO Burstinatrix ---> into Ambulance Rescueroid
+Fuse Bickuribox + King of the Swamp ---> into Extox Hydra
+Fuse Bickuribox + Shaddoll Hound ---> into Extox Hydra
+Fuse Bickuribox + Toon Dark Magician Girl ---> into Extox Hydra
+Fuse Bickuribox + Toon Dark Magician Girl ---> into Ambulance Rescueroid
+Fuse Bickuribox + Wind-Up Dog ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Elemental HERO Flame Wingman ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Elemental HERO Flame Wingman ---> into Ambulance Rescueroid
+Fuse Bickuribox + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Bickuribox + Dark Flare Knight ---> into Elemental HERO Terra Firma
+Fuse Bickuribox + Dark Flare Knight ---> into Ambulance Rescueroid
+Fuse Bickuribox + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Bickuribox + Dangerous Frightfur Nightmary ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Manga Ryu-Ran ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Fluffal Octopus ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Fluffal Octopus ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Fluffal Leo ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Mirage Knight ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Mirage Knight ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Wind-Up Soldier ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Wind-Up Soldier ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Elemental HERO Woodsman ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Toy Magician ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Toon Goblin Attack Force ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Toon Goblin Attack Force ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Toy Knight ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + King of the Swamp ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Shaddoll Hound ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Elemental HERO Terra Firma ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Elemental HERO Terra Firma ---> into Extox Hydra
+Fuse Dangerous Frightfur Nightmary + Ambulance Rescueroid ---> into Dark Flare Knight
+Fuse Dangerous Frightfur Nightmary + Bickuribox ---> into Extox Hydra

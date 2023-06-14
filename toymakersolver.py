@@ -46,7 +46,7 @@ for card in extradeck:
     print(info["name"]) 
     if info["type"]=="Link Monster":
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": -1, "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
-    if info["type"]=="XYZ Monster":
+    elif info["type"]=="XYZ Monster":
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
     elif "Monster" in info["type"]:
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": info["level"]}

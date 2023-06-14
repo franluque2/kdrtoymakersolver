@@ -1,0 +1,390 @@
+Fuse Wind-Up Kitten + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse Wind-Up Kitten + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Wings + Elemental HERO Burstinatrix ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Edge Imp Sabres ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Elemental HERO Wildheart ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Elemental HERO Clayman ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Elemental HERO Avian ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Elemental HERO Stratos ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Elemental HERO Nebula Neos ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Frightfur Wolf ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Masquerade the Blazing Dragon ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Wings + Dangerous Frightfur Nightmary ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Dangerous Frightfur Nightmary ---> into Ultimate Axon Kicker
+Fuse Fluffal Wings + Starving Venemy Dragon ---> into Thousand-Eyes Restrict
+Fuse Fluffal Wings + Bickuribox ---> into Thousand-Eyes Restrict
+Fuse Fluffal Penguin + Thousand-Eyes Idol ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Penguin + Shaddoll Hound ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Penguin + Shaddoll Squamata ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Penguin + Shaddoll Dragon ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Penguin + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Penguin + Thousand-Eyes Restrict ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Penguin + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Penguin + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Penguin + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Penguin + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Thousand-Eyes Idol + Fluffal Penguin ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Idol + King of the Swamp ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Idol + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Idol + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Thousand-Eyes Idol + Elemental HERO Clayman ---> into Bickuribox
+Fuse Thousand-Eyes Idol + Fluffal Dolphin ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Idol + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Idol + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Thousand-Eyes Idol + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Idol + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse King of the Swamp + Thousand-Eyes Idol ---> into Eria the Water Charmer, Gentle
+Fuse King of the Swamp + Shaddoll Hound ---> into Eria the Water Charmer, Gentle
+Fuse King of the Swamp + Shaddoll Squamata ---> into Eria the Water Charmer, Gentle
+Fuse King of the Swamp + Shaddoll Dragon ---> into Eria the Water Charmer, Gentle
+Fuse King of the Swamp + Thousand-Eyes Restrict ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dog + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Dog + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Dog + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Dog + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Dog + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Dog + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Burstinatrix + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Burstinatrix + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Burstinatrix + El Shaddoll Construct ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Burstinatrix + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Burstinatrix + Frightfur Wolf ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Burstinatrix + Masquerade the Blazing Dragon ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Burstinatrix + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Shaddoll Hound + Fluffal Penguin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Hound + King of the Swamp ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Hound + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Hound + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Shaddoll Hound + Elemental HERO Clayman ---> into Bickuribox
+Fuse Shaddoll Hound + Fluffal Dolphin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Hound + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Hound + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Shaddoll Hound + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Hound + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse Edge Imp Scythe + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Edge Imp Sabres + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Edge Imp Sabres + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Edge Imp Sabres + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Edge Imp Sabres + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Elemental HERO Wildheart + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Wildheart + El Shaddoll Construct ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Wildheart + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Wildheart + Frightfur Wolf ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Wildheart + Masquerade the Blazing Dragon ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Wildheart + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Clayman + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Clayman + Thousand-Eyes Idol ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Thousand-Eyes Idol ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Thousand-Eyes Idol ---> into Bickuribox
+Fuse Elemental HERO Clayman + Shaddoll Hound ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Shaddoll Hound ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Shaddoll Hound ---> into Bickuribox
+Fuse Elemental HERO Clayman + Edge Imp Scythe ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Edge Imp Sabres ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Shaddoll Squamata ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Shaddoll Squamata ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Shaddoll Squamata ---> into Bickuribox
+Fuse Elemental HERO Clayman + Shaddoll Dragon ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Shaddoll Dragon ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Shaddoll Dragon ---> into Bickuribox
+Fuse Elemental HERO Clayman + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + El Shaddoll Construct ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Clayman + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Clayman + Frightfur Wolf ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Clayman + Frightfur Wolf ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Thousand-Eyes Restrict ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Thousand-Eyes Restrict ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Thousand-Eyes Restrict ---> into Bickuribox
+Fuse Elemental HERO Clayman + Masquerade the Blazing Dragon ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Clayman + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Clayman + Dangerous Frightfur Nightmary ---> into Starving Venemy Dragon
+Fuse Elemental HERO Clayman + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Shaddoll Squamata + Fluffal Penguin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Squamata + King of the Swamp ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Squamata + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Squamata + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Shaddoll Squamata + Elemental HERO Clayman ---> into Bickuribox
+Fuse Shaddoll Squamata + Fluffal Dolphin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Squamata + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Squamata + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Shaddoll Squamata + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Squamata + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse Fluffal Bear + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Bear + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Bear + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Bear + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Bear + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Bear + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Avian + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Avian + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Avian + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Avian + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Owl + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Owl + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Owl + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Owl + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Owl + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Owl + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Fluffal Cat + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Edge Imp Sabres ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Cat + Frightfur Wolf ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Cat + Masquerade the Blazing Dragon ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Cat + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Cat + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse Fluffal Cat + Dangerous Frightfur Nightmary ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Starving Venemy Dragon ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Bickuribox ---> into Thousand-Eyes Restrict
+Fuse Fluffal Cat + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Stratos + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Stratos + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Stratos + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Stratos + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Fluffal Dolphin + Thousand-Eyes Idol ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dolphin + Shaddoll Hound ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dolphin + Shaddoll Squamata ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dolphin + Shaddoll Dragon ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dolphin + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Fluffal Dolphin + Thousand-Eyes Restrict ---> into Eria the Water Charmer, Gentle
+Fuse Fluffal Dolphin + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Fluffal Dolphin + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Fluffal Dolphin + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Fluffal Dolphin + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Shaddoll Dragon + Fluffal Penguin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Dragon + King of the Swamp ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Dragon + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Dragon + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Shaddoll Dragon + Elemental HERO Clayman ---> into Bickuribox
+Fuse Shaddoll Dragon + Fluffal Dolphin ---> into Eria the Water Charmer, Gentle
+Fuse Shaddoll Dragon + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Dragon + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Shaddoll Dragon + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Shaddoll Dragon + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse El Shaddoll Construct + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Thousand-Eyes Idol ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Burstinatrix ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse El Shaddoll Construct + Elemental HERO Burstinatrix ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Shaddoll Hound ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Elemental HERO Wildheart ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse El Shaddoll Construct + Elemental HERO Wildheart ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Elemental HERO Clayman ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse El Shaddoll Construct + Elemental HERO Clayman ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Shaddoll Squamata ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Avian ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Avian ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Stratos ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Stratos ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Shaddoll Dragon ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Elemental HERO Flame Wingman ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Nebula Neos ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse El Shaddoll Construct + Elemental HERO Nebula Neos ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Thousand-Eyes Restrict ---> into Masquerade the Blazing Dragon
+Fuse El Shaddoll Construct + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Thunder Giant
+Fuse El Shaddoll Construct + Elemental HERO Thunder Giant ---> into Elemental HERO Nebula Neos
+Fuse El Shaddoll Construct + Elemental HERO Thunder Giant ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse El Shaddoll Construct + Dangerous Frightfur Nightmary ---> into Ultimate Axon Kicker
+Fuse Elemental HERO Flame Wingman + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Thousand-Eyes Idol ---> into Frightfur Wolf
+Fuse Elemental HERO Flame Wingman + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Shaddoll Hound ---> into Frightfur Wolf
+Fuse Elemental HERO Flame Wingman + Shaddoll Squamata ---> into Frightfur Wolf
+Fuse Elemental HERO Flame Wingman + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Shaddoll Dragon ---> into Frightfur Wolf
+Fuse Elemental HERO Flame Wingman + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman + Thousand-Eyes Restrict ---> into Frightfur Wolf
+Fuse Elemental HERO Flame Wingman + Starving Venemy Dragon ---> into Frightfur Wolf
+Fuse Elemental HERO Nebula Neos + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Nebula Neos + Fluffal Penguin ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Fluffal Dog ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Fluffal Bear ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Fluffal Owl ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Fluffal Cat ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Fluffal Dolphin ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + El Shaddoll Construct ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Nebula Neos + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Nebula Neos + Frightfur Wolf ---> into Elemental HERO Flame Wingman
+Fuse Elemental HERO Nebula Neos + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Masquerade the Blazing Dragon ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Nebula Neos + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Nebula Neos + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Frightfur Wolf + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Frightfur Wolf + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman
+Fuse Frightfur Wolf + Elemental HERO Wildheart ---> into Elemental HERO Flame Wingman
+Fuse Frightfur Wolf + Elemental HERO Clayman ---> into Elemental HERO Flame Wingman
+Fuse Frightfur Wolf + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Frightfur Wolf + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Frightfur Wolf + Elemental HERO Nebula Neos ---> into Elemental HERO Flame Wingman
+Fuse Frightfur Wolf + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Thousand-Eyes Restrict + Fluffal Penguin ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Restrict + King of the Swamp ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Restrict + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Restrict + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Thousand-Eyes Restrict + Elemental HERO Clayman ---> into Bickuribox
+Fuse Thousand-Eyes Restrict + Fluffal Dolphin ---> into Eria the Water Charmer, Gentle
+Fuse Thousand-Eyes Restrict + El Shaddoll Construct ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Restrict + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Thousand-Eyes Restrict + Elemental HERO Flame Wingman - Infernal Rage ---> into Masquerade the Blazing Dragon
+Fuse Thousand-Eyes Restrict + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse Eria the Water Charmer, Gentle + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Edge Imp Sabres ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Frightfur Wolf ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Masquerade the Blazing Dragon ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Dangerous Frightfur Nightmary ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Starving Venemy Dragon ---> into Thousand-Eyes Restrict
+Fuse Eria the Water Charmer, Gentle + Bickuribox ---> into Thousand-Eyes Restrict
+Fuse Masquerade the Blazing Dragon + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Masquerade the Blazing Dragon + Fluffal Penguin ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Fluffal Dog ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Elemental HERO Burstinatrix ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Masquerade the Blazing Dragon + Elemental HERO Wildheart ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Masquerade the Blazing Dragon + Elemental HERO Clayman ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Masquerade the Blazing Dragon + Fluffal Bear ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Fluffal Owl ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Fluffal Cat ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Masquerade the Blazing Dragon + Fluffal Dolphin ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Elemental HERO Nebula Neos ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Masquerade the Blazing Dragon + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Masquerade the Blazing Dragon + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Masquerade the Blazing Dragon + Elemental HERO Thunder Giant ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Masquerade the Blazing Dragon + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Wings ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Penguin ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Thousand-Eyes Idol ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Dog ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Shaddoll Hound ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Elemental HERO Clayman ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Shaddoll Squamata ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Bear ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Owl ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Cat ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Fluffal Dolphin ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Shaddoll Dragon ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Flame Wingman - Infernal Rage + El Shaddoll Construct ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Thousand-Eyes Restrict ---> into Masquerade the Blazing Dragon
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Elemental HERO Thunder Giant ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Ultimate Axon Kicker ---> into El Shaddoll Construct
+Fuse Elemental HERO Flame Wingman - Infernal Rage + Ultimate Axon Kicker ---> into Elemental HERO Thunder Giant
+Fuse Elemental HERO Thunder Giant + Wind-Up Kitten ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + Fluffal Penguin ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Fluffal Dog ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Fluffal Dog ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + Fluffal Bear ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Fluffal Bear ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + Fluffal Owl ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Fluffal Owl ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + Fluffal Cat ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Fluffal Cat ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + Fluffal Dolphin ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + El Shaddoll Construct ---> into Elemental HERO Nebula Neos
+Fuse Elemental HERO Thunder Giant + El Shaddoll Construct ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Thunder Giant + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Masquerade the Blazing Dragon ---> into Elemental HERO Flame Wingman - Infernal Rage
+Fuse Elemental HERO Thunder Giant + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Elemental HERO Thunder Giant + Dangerous Frightfur Nightmary ---> into Ultimate Axon Kicker
+Fuse Dangerous Frightfur Nightmary + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Dangerous Frightfur Nightmary + Fluffal Wings ---> into Ultimate Axon Kicker
+Fuse Dangerous Frightfur Nightmary + Elemental HERO Clayman ---> into Starving Venemy Dragon
+Fuse Dangerous Frightfur Nightmary + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Dangerous Frightfur Nightmary + El Shaddoll Construct ---> into Ultimate Axon Kicker
+Fuse Dangerous Frightfur Nightmary + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Dangerous Frightfur Nightmary + Elemental HERO Thunder Giant ---> into Ultimate Axon Kicker
+Fuse Starving Venemy Dragon + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Starving Venemy Dragon + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Starving Venemy Dragon + Elemental HERO Flame Wingman ---> into Frightfur Wolf
+Fuse Starving Venemy Dragon + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Starving Venemy Dragon + Ultimate Axon Kicker ---> into Dangerous Frightfur Nightmary
+Fuse Bickuribox + Fluffal Wings ---> into Thousand-Eyes Restrict
+Fuse Bickuribox + Fluffal Cat ---> into Thousand-Eyes Restrict
+Fuse Bickuribox + Eria the Water Charmer, Gentle ---> into Thousand-Eyes Restrict
+Fuse Ultimate Axon Kicker + Fluffal Penguin ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Thousand-Eyes Idol ---> into Dangerous Frightfur Nightmary
+Fuse Ultimate Axon Kicker + Fluffal Dog ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Burstinatrix ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Shaddoll Hound ---> into Dangerous Frightfur Nightmary
+Fuse Ultimate Axon Kicker + Elemental HERO Wildheart ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Elemental HERO Clayman ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Shaddoll Squamata ---> into Dangerous Frightfur Nightmary
+Fuse Ultimate Axon Kicker + Fluffal Bear ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Avian ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Fluffal Owl ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Fluffal Cat ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Stratos ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Fluffal Dolphin ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Shaddoll Dragon ---> into Dangerous Frightfur Nightmary
+Fuse Ultimate Axon Kicker + Elemental HERO Nebula Neos ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Nebula Neos ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Thousand-Eyes Restrict ---> into Dangerous Frightfur Nightmary
+Fuse Ultimate Axon Kicker + Masquerade the Blazing Dragon ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Flame Wingman - Infernal Rage ---> into El Shaddoll Construct
+Fuse Ultimate Axon Kicker + Elemental HERO Flame Wingman - Infernal Rage ---> into Elemental HERO Thunder Giant
+Fuse Ultimate Axon Kicker + Starving Venemy Dragon ---> into Dangerous Frightfur Nightmary
