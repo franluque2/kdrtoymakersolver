@@ -36,6 +36,7 @@ for card in deck:
 
     if "Monster" in info["type"]:
         deckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": info["level"]}
+        deckmonsters[(info["name"]+" +100 STR")] = {"ATK": (int(info["atk"])+100),"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": info["level"]}
 
 for card in extradeck:
     #print(f"https://db.ygoprodeck.com/api/v7/cardinfo.php?id={card}")
@@ -48,8 +49,10 @@ for card in extradeck:
         final[info["name"]] = {"ATK": [],"DEF": [], "Attribute": [],"Type": [], "Level": []}
     if info["type"]=="Link Monster":
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": -1, "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
+        continue
     if info["type"]=="XYZ Monster":
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": -1}
+        continue
     elif "Monster" in info["type"]:
         extradeckmonsters[info["name"]] = {"ATK": info["atk"],"DEF": info["def"], "Attribute": info["attribute"],"Type": info["race"], "Level": info["level"]}
 
@@ -75,7 +78,7 @@ for mdMon in deckmonsters:
         if key != 'no':
             final[edMon][key].append(mdMon)
 
-f = open("output.txt", "a")
+f = open("outputvisual.txt", "a")
 f.truncate(0)
 for card in final:
     string = ""
